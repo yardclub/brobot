@@ -4,6 +4,7 @@
     "polite.coffee",
     "weather.coffee",
     "android-os.coffee",
-    "yelp.coffee", 
+    "yelp.coffee",
+    "slogan.coffee",
     "shipit.coffee"
 ]
