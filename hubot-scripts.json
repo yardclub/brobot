@@ -1,1 +1,9 @@
-["redis-brain.coffee", "yelp.coffee", "shipit.coffee"]
+[
+    "redis-brain.coffee",
+    "yoda-quotes.coffee",
+    "polite.coffee",
+    "weather.coffee",
+    "android-os.coffee",
+    "yelp.coffee", 
+    "shipit.coffee"
+]
