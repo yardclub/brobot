@@ -31,7 +31,7 @@ module.exports = (robot) ->
   allPrefixes = getJSON 'http://codenames.clivemurray.com/data/prefixes.json'
   allAnimals  = getJSON 'http://codenames.clivemurray.com/data/animals.json'
 
-  robot.respond /suggest a( project)? name/i, (msg) ->
+  robot.respond /(codename )(.*)?/i, (msg) ->
     rsvp.all([allPrefixes, allAnimals]).then (words) ->
       [prefixes, animals] = words
       prefix = msg.random(prefixes).title
