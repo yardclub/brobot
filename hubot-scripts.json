@@ -15,6 +15,7 @@
     "jokels.coffee",
     "kittens.coffee",
     "likeaboss.coffee",
+    "ping.coffee",
     "polite.coffee",
     "redis-brain.coffee",
     "shipit.coffee",
