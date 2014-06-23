@@ -1,5 +1,5 @@
 [
-    "achievment_unlocked.coffee",
+    "achievement_unlocked.coffee",
     "advice.coffee",
     "android-os.coffee",
     "animal.coffee",
@@ -33,6 +33,7 @@
     "thebattle.coffee",
     "urban.coffee",
     "weather.coffee",
+    "xkcd.coffee",
     "yelp.coffee",
     "yoda-quotes.coffee",
     "zombies.coffee"
