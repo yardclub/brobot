@@ -34,8 +34,5 @@
   "engines": {
     "node": ">= 0.8.x",
     "npm": ">= 1.1.x"
-  },
-  "devDependencies": {
-    "hubot-scripts": "^2.5.11"
   }
 }
