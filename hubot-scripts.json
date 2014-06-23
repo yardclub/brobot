@@ -1,4 +1,5 @@
 [
+    "achievment_unlocked.coffee",
     "advice.coffee",
     "android-os.coffee",
     "animal.coffee",
@@ -17,11 +18,22 @@
     "likeaboss.coffee",
     "ping.coffee",
     "polite.coffee",
+    "random-user.coffee",
+    "remind.coffee",
     "redis-brain.coffee",
+    "replygif.coffee",
+    "robot-memes.coffee",
+    "roll.coffee",
+    "sensitive.coffee",
+    "sheits.coffee",
     "shipit.coffee",
     "slogan.coffee",
+    "sloth-me.coffee",
+    "snow.coffee",
+    "thebattle.coffee",
     "urban.coffee",
     "weather.coffee",
     "yelp.coffee",
-    "yoda-quotes.coffee"
+    "yoda-quotes.coffee",
+    "zombies.coffee"
 ]
