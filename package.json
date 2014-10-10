@@ -23,7 +23,7 @@
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-hipchat": "git://github.com/cheif/hubot-hipchat.git",
+    "hubot-hipchat": "^2.7.5",
     "yelp": "*",
     "phantom": "0.5.2",
     "cheerio": "0.12.1",
