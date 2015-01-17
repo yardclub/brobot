@@ -21,18 +21,19 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-hipchat": "^2.7.5",
-    "yelp": "*",
-    "phantom": "0.5.2",
     "cheerio": "0.12.1",
     "htmlparser": "1.7.6",
-    "soupselect": "0.2.0",
-    "rsvp": "1.2.0",
-    "xml2js": "0.1.14",
+    "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-hipchat": "^2.7.5",
     "hubot-leaderboard": ">= 0.2.0",
-    "hubot-heroku-keepalive": "0.0.4"
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-woah": "^1.0.3",
+    "phantom": "0.5.2",
+    "rsvp": "1.2.0",
+    "soupselect": "0.2.0",
+    "xml2js": "0.1.14",
+    "yelp": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
