@@ -28,6 +28,7 @@
     "hubot-hipchat": "^2.7.5",
     "hubot-leaderboard": ">= 0.2.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-slack": "^3.3.0",
     "hubot-woah": "^1.0.3",
     "phantom": "0.5.2",
     "rsvp": "1.2.0",
@@ -36,7 +37,7 @@
     "yelp": "*"
   },
   "engines": {
-    "node": ">= 0.8.x",
+    "node": "= 10.3.x",
     "npm": ">= 1.1.x"
   }
 }
